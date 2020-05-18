@@ -1,2 +1,2 @@
-# uzd1
-Task 1
+# v0.1
+Spausdinama paprasta vizitine
