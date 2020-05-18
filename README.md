@@ -14,3 +14,9 @@
   3. Run'inti kodą
   4. Pateikti visus prašomus duomenis
   5. Gaunama vizitinė
+# v0.1
+Spausdinama paprasta vizitine, remeliai saugojami kintamuosiuose.
+# v0.2
+Programa pritaikyta lyciu atpazinimui.
+# v0.3
+Pridetas remelio plocio pasirinkimas
